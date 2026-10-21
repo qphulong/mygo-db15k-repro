@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+wandb/
+*.zip
+*.out
+logs/
